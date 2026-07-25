@@ -314,7 +314,7 @@ The project combines machine learning and practical disaster-triage capabilities
 
 ---
 
-# 👨‍💻 Author
+# 👩‍💻 Author
 
 **Anshu Swarna**
 
