@@ -320,12 +320,7 @@ The project combines machine learning and practical disaster-triage capabilities
 
 Text-Based Machine Learning Capstone Project
 
-Machine Learning | Data Science | NLP Enthusiast
+Machine Learning | Data Science |
 
----
 
-# 📜 License
 
-This project is licensed under the MIT License.
-
-Feel free to use, modify, and enhance this project for learning and research purposes.
